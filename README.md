@@ -195,7 +195,7 @@ http://localhost:3000
 ![Metadata Editor](public/metadata_Edit.png)
 
 ## Dark Mode
-![Dark Mode](public/Dark_Mode.png)
+![Dark Mode](public/dark_Mode.png)
 
 
 ---
